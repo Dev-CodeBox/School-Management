@@ -1,6 +1,9 @@
--- CREATE DATABASE school_management;
+-- CREATE DATABASE school_management; // "school_management" is made when it is used locally 
+-- replace it with db name -> "bkw8zfeh2wfr104n5to7" cloud space for MYSQL
+-- CREATE DATABASE bkw8zfeh2wfr104n5to7;
 
 -- USE school_management;
+-- USE bkw8zfeh2wfr104n5to7;
 
 -- CREATE TABLE schools (
 --     id INT AUTO_INCREMENT PRIMARY KEY,
