@@ -125,7 +125,7 @@ npm run dev
 
 ## 👑 Postman Collection
 
-[📌 Click here to access Postman Collection](postman-link)
+[📌 Click here to access Postman Collection](https://www.postman.com/orbital-module-engineer-2841342/workspace/school-management/collection/32335787-bf1e34d9-198a-4008-ac32-009d2aa675b9?action=share&creator=32335787)
 
 ## ✉️ Contact
 
